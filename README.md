@@ -1,7 +1,7 @@
 # Hi, I'm Makmot Robin
 
 I like turning unfinished exercises into things that actually build, test and run.
-Most of what is here started as coursework — the difference is that every public
+Most of what is here started as coursework, the difference is that every public
 project now compiles from a clean checkout and has tests.
 
 ## What's here
@@ -14,6 +14,6 @@ project now compiles from a clean checkout and has tests.
 
 ## Tools I work with
 
-Java 17/21 · Maven · JUnit 5 · H2 · SQL · JavaScript/TypeScript · Node.js · Electron · PHP · Git
+Flutter · Firebase · Oracle · Angular · Java 17/21 · Maven · JUnit 5 · H2 · SQL · JavaScript/TypeScript · Node.js · Electron · PHP · Git
 
 <sub>Older exercise repositories are archived; their code lives on in <a href="https://github.com/MakmotRobin/java-practice">java-practice</a>.</sub>
